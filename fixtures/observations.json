@@ -1,0 +1,6 @@
+{
+  "observations": [
+    {"id":"observation-1","type":"observation","proof_count":1,"source_memory_ids":["fact-1","fact-2","fact-2"]},
+    {"id":"observation-2","type":"observation","proof_count":2,"source_memory_ids":["fact-3","fact-4"]}
+  ]
+}
